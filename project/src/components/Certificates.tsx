@@ -23,6 +23,13 @@ const Certificates = () => {
       image: '/certificates/pandas.pdf',
       description: 'Mastering data manipulation with Pandas library',
     },
+    {
+      title: 'Python Numpy Basics Course',
+      issuer: 'Simplilearn',
+      date: 'May 2025',
+      image: '/certificates/numpy.pdf',
+      description: 'Mastering data manipulation with Numpy library',
+    },
   ];
 
   return (
