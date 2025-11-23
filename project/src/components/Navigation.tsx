@@ -24,7 +24,7 @@ const Navigation = ({ currentSection, scrollToSection }: NavigationProps) => {
   };
 
   const handleResumeClick = () => {
-    window.open('/resume/Aakash Resume final.pdf', '_blank');
+    window.open('/resume/Aakashcvreseume.pdf', '_blank');
   };
 
   return (
