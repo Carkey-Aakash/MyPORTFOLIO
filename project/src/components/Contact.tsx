@@ -120,8 +120,8 @@ const Contact = () => {
             <div className="bg-gradient-to-br from-blue-50 to-cyan-50 p-6 rounded-xl border border-blue-100">
               <h4 className="font-semibold text-gray-900 mb-2">Looking for opportunities</h4>
               <p className="text-gray-700">
-                I'm actively seeking opportunities as a Data Scientist or Machine Learning Engineer.
-                Feel free to reach out if you have any exciting projects or positions!
+                Looking for internship opportunities in data science, analytics, or backend development with Django.
+Excited to apply my skills and collaborate on real-world projects.
               </p>
             </div>
           </div>
