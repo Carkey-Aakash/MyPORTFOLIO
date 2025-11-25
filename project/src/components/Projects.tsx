@@ -19,8 +19,8 @@ const Projects = () => {
     {
       title: 'Movie Recommendation System',
       description:
-        'An intelligent movie recommendation engine using collaborative filtering and content-based algorithms. Built with Streamlit for an interactive user interface and deployed for real-time recommendations.',
-      tools: ['Python', 'NumPy', 'Pandas', 'Streamlit'],
+        'A content-based movie recommendation system that suggests similar movies based on the movie selected by the user. This model uses cosine similarity on movie metadata features to generate recommendations and displays movie posters fetched from the TMDB API. The interface is built using Streamlit for an interactive user experience.',
+      tools: ['Python', 'NumPy', 'Pandas','Scikit-Learn', 'Streamlit'],
       github: 'https://github.com/Carkey-Aakash/Movie_Recommending_System',
     },
     {
