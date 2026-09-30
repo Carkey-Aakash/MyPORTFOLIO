@@ -30,6 +30,13 @@ const Certificates = () => {
       image: '/certificates/numpy.pdf',
       description: 'Mastering data manipulation with Numpy library',
     },
+    {
+      title: 'Introduction to SQL',
+      issuer: 'Datacamp',
+      date: 'August 2026',
+      image: '/certificates/introduction to sql.pdf',
+      description: 'Introduction to SQL and database management',
+    },
   ];
 
   return (
