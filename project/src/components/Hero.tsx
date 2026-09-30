@@ -73,7 +73,7 @@ const Hero = ({ scrollToSection }: HeroProps) => {
             <div className="relative">
               <div className="absolute inset-0 bg-gradient-to-r from-blue-600 to-cyan-600 rounded-2xl blur-2xl opacity-20 animate-pulse"></div>
               <img
-                src="/images/my own.jpg"
+                src="/images/donn.jpeg"
                 alt="Akash Karki"
                 className="relative w-80 h-80 md:w-96 md:h-96 object-cover rounded-2xl shadow-2xl border-4 border-white"
               />

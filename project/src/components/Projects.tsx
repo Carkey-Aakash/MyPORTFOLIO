@@ -9,17 +9,6 @@ const Projects = () => {
       tools: ['Django', 'DRF', 'SQLite', 'Celery', 'Redis'],
       github: 'https://github.com/Carkey-Aakash/College-management-system-with-Django-Backend',
     },
-      {
-      title: 'Currency Converter Chatbot',
-
-      description:
-
-        'A conversational currency conversion chatbot built with Dialogflow and Flask. Integrates ExchangeRate-API for currency conversion and ngrok for exposing the local Flask application for external access.',
-
-      tools: ['Python', 'Flask', 'Dialogflow', 'ExchangeRate-API', 'ngrok'],
-
-      github: 'https://github.com/Carkey-Aakash/Currency_converter_chatbot',
-    },
     {
       title: 'Movie Recommendation System',
       description:
@@ -33,6 +22,13 @@ const Projects = () => {
         'A machine learning-based spam detection system that classifies email and SMS messages as Spam or Not Spam using NLP preprocessing, TF-IDF feature extraction, and a Multinomial Naive Bayes classifier.',
       tools: ['Python', 'Scikit-learn', 'NLTK', 'Pandas', 'Streamlit'],
       github: 'https://github.com/Carkey-Aakash/Email-Fraud-Detection',
+    },
+     {
+      title: 'Currency Converter Chatbot',
+      description:
+        'A conversational currency conversion chatbot built with Dialogflow and Flask. Integrates ExchangeRate-API for currency conversion and ngrok for exposing the local Flask application for external access.',
+      tools: ['Python', 'Flask', 'Dialogflow', 'ExchangeRate-API', 'ngrok'],
+      github: 'https://github.com/Carkey-Aakash/Currency_converter_chatbot',
     },
       {
       title: 'Online Retail Sales SQL Project',
