@@ -13,7 +13,7 @@ const Hero = ({ scrollToSection }: HeroProps) => {
             <div className="space-y-2">
               <p className="text-blue-600 font-medium text-lg">Hello, I'm</p>
               <h1 className="text-5xl md:text-6xl font-bold text-gray-900">
-                Aakash Karki
+                Akash Karki
               </h1>
               <div className="h-1 w-24 bg-gradient-to-r from-blue-600 to-cyan-600 rounded mx-auto md:mx-0"></div>
             </div>
@@ -23,8 +23,9 @@ const Hero = ({ scrollToSection }: HeroProps) => {
             </p>
 
             <p className="text-gray-600 text-lg leading-relaxed max-w-xl">
-              8th-semester BSc.CSIT student at Central Campus of Technology, Dharan.
-              Passionate about transforming data into actionable insights and building intelligent systems.
+              BSc. CSIT graduate from Central Campus of Technology, Dharan.
+
+              Passionate about data analysis, exploratory data analysis (EDA), machine learning, and building intelligent solutions that turn data into meaningful insights.
             </p>
 
             <div className="flex gap-4 justify-center md:justify-start">
@@ -73,7 +74,7 @@ const Hero = ({ scrollToSection }: HeroProps) => {
               <div className="absolute inset-0 bg-gradient-to-r from-blue-600 to-cyan-600 rounded-2xl blur-2xl opacity-20 animate-pulse"></div>
               <img
                 src="/images/my own.jpg"
-                alt="Aakash Karki"
+                alt="Akash Karki"
                 className="relative w-80 h-80 md:w-96 md:h-96 object-cover rounded-2xl shadow-2xl border-4 border-white"
               />
             </div>

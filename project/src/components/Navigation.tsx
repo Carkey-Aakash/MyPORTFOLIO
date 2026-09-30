@@ -24,7 +24,7 @@ const Navigation = ({ currentSection, scrollToSection }: NavigationProps) => {
   };
 
   const handleResumeClick = () => {
-    window.open('/resume/Aakashcvreseume.pdf', '_blank');
+    window.open('/resume/AkashKarkifinal.pdf', '_blank');
   };
 
   return (
@@ -36,7 +36,7 @@ const Navigation = ({ currentSection, scrollToSection }: NavigationProps) => {
               onClick={() => scrollToSection('home')}
               className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-cyan-600 bg-clip-text text-transparent hover:scale-105 transition-transform"
             >
-              Aakash Karki
+              Akash Karki
             </button>
           </div>
 

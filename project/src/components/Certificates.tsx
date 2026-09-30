@@ -34,11 +34,11 @@ const Certificates = () => {
       title: 'Introduction to SQL',
       issuer: 'Datacamp',
       date: 'August 2026',
-      image: '/certificates/INTRODUCTION TO SQL.pdf',
+      image: '/certificates/INTRODUCTION to SQL.pdf',
       description: 'Introduction to SQL and database management',
     },
      {
-      title: 'Introduction to SQL',
+      title: 'Intermediate SQL',
       issuer: 'Datacamp',
       date: 'August 2026',
       image: '/certificates/sql_intermediate.pdf',
