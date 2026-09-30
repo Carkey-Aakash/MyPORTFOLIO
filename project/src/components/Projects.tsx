@@ -9,12 +9,16 @@ const Projects = () => {
       tools: ['Django', 'DRF', 'SQLite', 'Celery', 'Redis'],
       github: 'https://github.com/Carkey-Aakash/College-management-system-with-Django-Backend',
     },
-    {
+      {
       title: 'Currency Converter Chatbot',
+
       description:
-        'A conversational currency converter that processes natural-language conversion requests using Dialogflow. Integrates Flask with ExchangeRate-API for real-time currency conversion and Telegram for conversational interactions.',
-      tools: ['Python', 'Flask', 'Dialogflow', 'ExchangeRate-API', 'Telegram'],
-      github: 'https://github.com/Carkey-Aakash/Currency-Converter-Chatbot',
+
+        'A conversational currency conversion chatbot built with Dialogflow and Flask. Integrates ExchangeRate-API for currency conversion and ngrok for exposing the local Flask application for external access.',
+
+      tools: ['Python', 'Flask', 'Dialogflow', 'ExchangeRate-API', 'ngrok'],
+
+      github: 'https://github.com/Carkey-Aakash/Currency_converter_chatbot',
     },
     {
       title: 'Movie Recommendation System',
