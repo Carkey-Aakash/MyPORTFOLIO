@@ -37,21 +37,22 @@ const About = () => {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <p className="text-lg text-gray-700 leading-relaxed">
-              I am a dedicated and passionate 8th-semester BSc.CSIT student at Central Campus of Technology, Dharan,
-              under Tribhuvan University. My journey in computer science has led me to develop a deep interest in
-              Data Science, Machine Learning, and Backend Development.
+              I'm a BSc. CSIT graduate with a strong foundation in Python, SQL, Machine Learning, and 
+              data-driven technologies. I have hands-on experience in data preprocessing, data analysis,
+               database management, NLP, and developing practical machine learning solutions.
             </p>
 
             <p className="text-lg text-gray-700 leading-relaxed">
-              With strong proficiency in Python and its powerful libraries including NumPy, Pandas, and Matplotlib,
-              I specialize in data analysis and building predictive models using Scikit-learn. My technical toolkit
-              also extends to Django framework and REST API development, enabling me to create robust backend solutions.
+              During my AI/ML internship, I worked with supervised and unsupervised learning techniques,
+              implemented machine learning algorithms, performed statistical analysis, and worked with
+              real-world datasets. I have also developed projects including an Email Fraud Detection system,
+              Currency Converter Chatbot, Netflix Data Analysis, and Movie Recommendation System.
             </p>
 
             <p className="text-lg text-gray-700 leading-relaxed">
-              My goal is to leverage my analytical skills and technical expertise to build real-world machine learning
-              models that solve meaningful problems. I am actively seeking opportunities to work as a Data Scientist
-              or Machine Learning Engineer where I can contribute to innovative projects and continue growing professionally.
+              I’m passionate about AI/ML, Data Engineering, and building practical solutions that solve real-world
+               problems. I’m continuously learning and looking for opportunities to apply my skills, work
+              on meaningful projects, and grow as a technology professional.
             </p>
 
             <div className="pt-4">
@@ -60,7 +61,7 @@ const About = () => {
                 <p className="font-semibold text-gray-900">BSc. Computer Science and Information Technology</p>
                 <p className="text-gray-700">Central Campus of Technology, Dharan</p>
                 <p className="text-gray-600">Tribhuvan University</p>
-                <p className="text-sm text-gray-500 mt-1">8th Semester</p>
+                <p className="text-sm text-gray-500 mt-1">BSc. CSIT Graduated</p>
               </div>
             </div>
           </div>
