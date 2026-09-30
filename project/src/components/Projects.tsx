@@ -10,11 +10,11 @@ const Projects = () => {
       github: 'https://github.com/Carkey-Aakash/College-management-system-with-Django-Backend',
     },
     {
-      title: 'To-Do List Application',
+      title: 'Currency Converter Chatbot',
       description:
-        'A full-featured task management application with CRUD operations, user authentication, and intuitive UI. Demonstrates proficiency in Django framework and database management.',
-      tools: ['Django', 'Python', 'SQLite'],
-      github: 'https://github.com/Carkey-Aakash/Django-to-do-app',
+        'A conversational currency converter that processes natural-language conversion requests using Dialogflow. Integrates Flask with ExchangeRate-API for real-time currency conversion and Telegram for conversational interactions.',
+      tools: ['Python', 'Flask', 'Dialogflow', 'ExchangeRate-API', 'Telegram'],
+      github: 'https://github.com/Carkey-Aakash/Currency-Converter-Chatbot',
     },
     {
       title: 'Movie Recommendation System',
@@ -24,11 +24,18 @@ const Projects = () => {
       github: 'https://github.com/Carkey-Aakash/Movie_Recommending_System',
     },
     {
-      title: 'Diwali Sales Analysis (EDA)',
+      title: 'Email Fraud Detection',
       description:
-        'Comprehensive exploratory data analysis of Diwali sales data to uncover purchasing patterns, customer behavior, and sales trends. Includes detailed visualizations and statistical insights.',
-      tools: ['Python', 'NumPy', 'Pandas', 'Matplotlib'],
-      github: 'https://github.com/Carkey-Aakash/Diwali_Sales_Analysis',
+        'A machine learning-based spam detection system that classifies email and SMS messages as Spam or Not Spam using NLP preprocessing, TF-IDF feature extraction, and a Multinomial Naive Bayes classifier.',
+      tools: ['Python', 'Scikit-learn', 'NLTK', 'Pandas', 'Streamlit'],
+      github: 'https://github.com/Carkey-Aakash/Email-Fraud-Detection',
+    },
+      {
+      title: 'Online Retail Sales SQL Project',
+      description:
+        'A PostgreSQL-based online retail database project focused on SQL analysis, database auditing, views, indexing, role-based access control, security, backup and restore, and query performance optimization.',
+      tools: ['PostgreSQL', 'SQL', 'pgAdmin'],
+      github: 'https://github.com/Carkey-Aakash/Online_sales_sql_project_selfdata',
     },
   ];
 

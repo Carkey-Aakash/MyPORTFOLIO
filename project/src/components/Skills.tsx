@@ -1,13 +1,13 @@
 const Skills = () => {
   const mainSkills = [
-    { name: 'Python', level: 70 },
+    { name: 'Python', level: 80 },
     { name: 'Data Analysis', level: 65 },
     { name: 'NumPy', level: 80 },
     { name: 'Pandas', level: 80 },
     { name: 'Matplotlib', level: 80 },
-    { name: 'Scikit-learn', level: 40 },
+    { name: 'Scikit-learn', level: 50 },
     { name: 'Django', level: 70 },
-    { name: 'SQL', level: 55 },
+    { name: 'SQL', level: 75 },
   ];
 
   const otherSkills = [

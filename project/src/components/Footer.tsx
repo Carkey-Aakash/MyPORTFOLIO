@@ -9,11 +9,7 @@ const Footer = () => {
           <p className="text-gray-400">
             Aspiring Data Scientist & Machine Learning Engineer
           </p>
-          <div className="flex items-center justify-center gap-2 text-gray-400">
-            <span>Made with</span>
-            <Heart size={16} className="text-red-500 fill-current" />
-            <span>and React + TypeScript</span>
-          </div>
+         
           <div className="text-sm text-gray-500">
             <p>&copy; {new Date().getFullYear()} Akash Karki. All rights reserved.</p>
           </div>
